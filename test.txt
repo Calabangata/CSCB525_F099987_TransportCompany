@@ -1,0 +1,19 @@
+NBU: Company{id=1, name='NBU', address='Sofia', income=20000.00}
+NBU Income: 20000.00
+Employees of NBU: 
+[DriverDTO{id=11, name='Dragan', qualification=CARGO, salary=2000.00}
+, DriverDTO{id=10, name='Miro', qualification=CARGO, salary=1800.00}
+, DriverDTO{id=3, name='Kriso', qualification=PEOPLETRANSPORT, salary=1500.00}
+, DriverDTO{id=9, name='Maria', qualification=PEOPLETRANSPORT, salary=1400.00}
+, DriverDTO{id=4, name='Kriso', qualification=SPECIALCARGO, salary=1300.00}
+, DriverDTO{id=5, name='Pesho', qualification=CARGO, salary=1200.00}
+, DriverDTO{id=6, name='Gosho', qualification=SPECIALCARGO, salary=1100.00}
+]
+NBU Clients: 
+[ClientDTO{id=1, name='Kris', phoneNumber='0882063686'}
+, ClientDTO{id=7, name='User3', phoneNumber='0294854495'}
+, ClientDTO{id=3, name='test3', phoneNumber='0867496895'}
+, ClientDTO{id=5, name='User1', phoneNumber='0938458593'}
+, ClientDTO{id=8, name='User4', phoneNumber='0888334561'}
+]
+NBU Total Income from transports: 20000.00
